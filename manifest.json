@@ -1,0 +1,9 @@
+{
+  "name": "PlanetwideMiner",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Fork of un1eagle's PlanetwideMiner. Updated for DSP 0.10.35+ (NotifyVeinExhausted API change).",
+  "dependencies": [
+    "xiaoye97-BepInEx-5.4.17"
+  ]
+}   
